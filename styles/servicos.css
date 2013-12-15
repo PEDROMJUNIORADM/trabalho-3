@@ -67,3 +67,50 @@ a:hover, a:active {
   -moz-border-radius   : 5px;
   -webkit-border-radius: 5px;
 }
+
+.mainContent {
+  line-height          : 25px;
+  border-radius        : 5px;
+  -moz-border-radius   : 5px;
+  -webkit-border-radius: 5px;
+}
+
+.content {
+  margin-top: 2%;
+  width                : 42%;
+  float                : left;
+  border-radius        : 5px;
+  -moz-border-radius   : 5px;
+  -webkit-border-radius: 5px;
+}
+
+.topcontent {
+  background-color: #FFF;
+  border-radius: 5px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  padding: 3% 5%;
+}
+
+
+.sidebarLeft {
+  width: 20%;
+  float: left;
+  background-color: #FFF;
+  border-radius: 5px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  margin: 2% 3% 2% 0;
+  padding: 2% 3%;
+}
+
+.sidebar {
+  width: 20%;
+  float: right;
+  background-color: #FFF;
+  border-radius: 5px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  margin: 2% 0 2% 3%;
+  padding: 2% 3%;
+}
