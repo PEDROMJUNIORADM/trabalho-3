@@ -1,8 +1,16 @@
+
+/* ==================
+   ===== GLOBAL =====
+   ==================
+*/
+
+
+
 body {
   background-image: url('../img/bg.png');
   color      : #000305;
   font-size  : 87.5%;
-  font-family: Arial, Verdana;
+  font-family: Helvetica, Verdana, Arial, sans-serif;
   line-height: 1.5;
   text-align : left;
 }
@@ -76,8 +84,17 @@ a:hover, a:active {
   -webkit-border-radius: 5px;
 }
 
+h2 { /* precisa de ser experimentado */
+ color: #CF5C3F;
+}
+
+
+/* ================
+   ===== HOME =====
+   ================
+*/
 .content {
-  margin-top: 2%;
+  margin-top           : 2%;
   width                : 100%;
   float                : left;
   border-radius        : 5px;
@@ -93,7 +110,26 @@ a:hover, a:active {
   padding: 2% 3%;
 }
 
-/* Exclusivo dos servicos */
+
+/* ===================
+   ===== TURISMO =====
+   ===================
+
+
+ESTA EM turismo.css A PAGINA
+IMMPORTA OS DOIS
+
+*/
+
+
+
+
+
+
+/* ====================
+   ===== SERVICOS =====
+   ====================
+*/
 
 .sidebarLeft {
   width: 43.5%;
@@ -119,7 +155,11 @@ a:hover, a:active {
 }
 
 
-/* Contactos */
+/* =====================
+   ===== CONTACTOS =====
+   =====================
+*/
+
 .horario {
   width: 43.5%;
   float: left;
@@ -127,7 +167,7 @@ a:hover, a:active {
   border-radius: 5px;
   -moz-border-radius: 5px;
   -webkit-border-radius: 5px;
-  margin: 1% 0% 2% 0%;
+  margin: 1% 0% 1% 0%;
   padding: 2% 3%;
   text-align: left;
 }
@@ -137,9 +177,18 @@ a:hover, a:active {
   padding-left: 0;
 }
 
-h2 {
- color: #CF5C3F;
+.contactos{
+  width: 43.5%;
+  float: left;
+  background-color: #FFF;
+  border-radius: 5px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  margin: 1.5% 0% 2% 0%;  /* margin-top: 1.5%; para esquerda e direita estarem enquadrados */
+  padding: 2% 3%;
+  text-align: left;
 }
+
 
 .formulario {
   width: 43.5%;
@@ -189,19 +238,6 @@ input:focus, textarea:focus {
   -webkit-border-radius: 3px;
 
 }
-.contactos{
-  width: 43.5%;
-  float: left;
-  background-color: #FFF;
-  border-radius: 5px;
-  -moz-border-radius: 5px;
-  -webkit-border-radius: 5px;
-  margin: 0% 0% 2% 0%;
-  padding: 2% 3%;
-  text-align: left;
-}
-
-
 
 
 /*

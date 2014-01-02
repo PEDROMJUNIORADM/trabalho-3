@@ -1,19 +1,22 @@
 Trabalho de TWEB
 ================
 
-#### Este e o trabalho!! ###
+### Este e o trabalho!! ###
 
-Ficheiros que sao percisos:
-- home_page.html
+#### Ficheiros que sao percisos: #####
+- home.html
 - turismo.html
 - servicos.html
-- contactos.html 
-- img/bg.png img/logoFINAL960x120.png 
-- styles/home.css 
+- contactos.html
+- pasta img
+- pasta styles
 
-falta acabar:
-- acabar contactos
-- fazer o turismo (contem a galeria)
-- script para o formulario funcionar
-- imagens e descricoes nomeadamente arranjar o logo que esta desfocado
+#### Falta acabar: ####
+- Links Uteis
+- Noticias
+- aumentar a galeria
+- meter o video (nao sei onde o por)
+
+> OS estilos estao todos juntos em home.css tirando a galeria
+> indeciso se juntar tudo ou separar tudo
 
