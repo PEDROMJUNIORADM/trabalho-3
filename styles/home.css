@@ -89,9 +89,9 @@ h2 { /* precisa de ser experimentado */
 }
 
 
-/* ================
-   ===== HOME =====
-   ================
+/* ===========================
+   ===== HOME e NOTICIAS =====
+   ===========================
 */
 .content {
   margin-top           : 2%;
@@ -102,14 +102,14 @@ h2 { /* precisa de ser experimentado */
   -webkit-border-radius: 5px;
 }
 
-.topcontent {
+.artigo {
+  margin: 1% 0 1% 0;
   background-color: #FFF;
   border-radius: 5px;
   -moz-border-radius: 5px;
   -webkit-border-radius: 5px;
   padding: 2% 3%;
 }
-
 
 /* ===================
    ===== TURISMO =====
@@ -120,10 +120,6 @@ ESTA EM turismo.css A PAGINA
 IMMPORTA OS DOIS
 
 */
-
-
-
-
 
 
 /* ====================

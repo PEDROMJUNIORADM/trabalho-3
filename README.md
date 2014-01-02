@@ -5,6 +5,7 @@ Trabalho de TWEB
 
 #### Ficheiros que sao percisos: #####
 - home.html
+- noticias.html
 - turismo.html
 - servicos.html
 - contactos.html
@@ -13,10 +14,10 @@ Trabalho de TWEB
 
 #### Falta acabar: ####
 - Links Uteis
-- Noticias
 - aumentar a galeria
 - meter o video (nao sei onde o por)
 
 > OS estilos estao todos juntos em home.css tirando a galeria
+
 > indeciso se juntar tudo ou separar tudo
 
