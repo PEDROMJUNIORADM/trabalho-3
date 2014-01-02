@@ -6,6 +6,9 @@ body {
   line-height: 1.5;
   text-align : left;
 }
+body h2 {
+  color: #CF5C3F
+}
 
 a {
   text-decoration: none;
@@ -75,9 +78,11 @@ a:hover, a:active {
   -webkit-border-radius: 5px;
 }
 
+
+
 .content {
   margin-top: 2%;
-  width                : 42%;
+  width                : 100%;
   float                : left;
   border-radius        : 5px;
   -moz-border-radius   : 5px;
@@ -94,23 +99,24 @@ a:hover, a:active {
 
 
 .sidebarLeft {
-  width: 20%;
+  width: 43.5%;
   float: left;
   background-color: #FFF;
   border-radius: 5px;
   -moz-border-radius: 5px;
   -webkit-border-radius: 5px;
-  margin: 2% 3% 2% 0;
+  margin: 1% 0% 2% 0%;
   padding: 2% 3%;
+
 }
 
 .sidebar {
-  width: 20%;
-  float: right;
+  width: 43.5%;
+  float: left;
   background-color: #FFF;
   border-radius: 5px;
   -moz-border-radius: 5px;
   -webkit-border-radius: 5px;
-  margin: 2% 0 2% 3%;
+  margin: 1% 0% 2% 1%;
   padding: 2% 3%;
 }

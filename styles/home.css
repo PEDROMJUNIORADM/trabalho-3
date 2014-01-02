@@ -71,7 +71,6 @@ a:hover, a:active {
 
 .mainContent {
 
-  line-height          : 25px;
   border-radius        : 5px;
   -moz-border-radius   : 5px;
   -webkit-border-radius: 5px;
@@ -79,7 +78,7 @@ a:hover, a:active {
 
 .content {
   margin-top: 2%;
-  width                : 70%;
+  width                : 100%;
   float                : left;
   border-radius        : 5px;
   -moz-border-radius   : 5px;
@@ -91,9 +90,121 @@ a:hover, a:active {
   border-radius: 5px;
   -moz-border-radius: 5px;
   -webkit-border-radius: 5px;
-  padding: 3% 5%;
+  padding: 2% 3%;
 }
 
+/* Exclusivo dos servicos */
+
+.sidebarLeft {
+  width: 43.5%;
+  float: left;
+  background-color: #FFF;
+  border-radius: 5px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  margin: 1% 0% 2% 0%;
+  padding: 2% 3%;
+
+}
+
+.sidebar {
+  width: 43.5%;
+  float: left;
+  background-color: #FFF;
+  border-radius: 5px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  margin: 1% 0% 2% 1%;
+  padding: 2% 3%;
+}
+
+
+/* Contactos */
+.horario {
+  width: 43.5%;
+  float: left;
+  background-color: #FFF;
+  border-radius: 5px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  margin: 1% 0% 2% 0%;
+  padding: 2% 3%;
+  text-align: left;
+}
+
+.horario ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+h2 {
+ color: #CF5C3F;
+}
+
+.formulario {
+  width: 43.5%;
+  float: right;
+  background-color: #FFF;
+  border-radius: 5px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  margin: 1% 0% 2% 0%;
+  padding: 2% 3%;
+}
+
+.formulario input, textarea {
+  padding: 10px;
+  border: 1px solid #E5E5E5;
+  width: 90%;
+  color: #999999;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 0px;
+  -moz-box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 0px;
+  -webkit-box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 0px;
+}
+
+textarea {
+  width: 90%;
+  max-width: 90%;
+  height: 150px;
+}
+
+input:hover, textarea:hover,
+input:focus, textarea:focus {
+  border-color: #C9C9C9;
+  box-shadow: rgba(0, 0, 0, 0.2) 0px 0px 0px;
+  -moz-box-shadow: rgba(0, 0, 0, 0.2) 0px 0px 0px;
+  -webkit-box-shadow: rgba(0, 0, 0, 0.2) 0px 0px 0px;
+}
+
+.formulario label {
+  margin-right: 10px;
+  color: #999999;
+}
+
+.submit input {
+  width: 50%;
+  height: 40px;
+  border-radius: 3px;
+  -moz-border-radius: 3px;
+  -webkit-border-radius: 3px;
+
+}
+.contactos{
+  width: 43.5%;
+  float: left;
+  background-color: #FFF;
+  border-radius: 5px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  margin: 0% 0% 2% 0%;
+  padding: 2% 3%;
+  text-align: left;
+}
+
+
+
+
+/*
 .top-sidebar {
   width: 21%;
   float: left;
@@ -127,7 +238,7 @@ a:hover, a:active {
   padding: 2% 3%;
 }
 
-
+*/
 @media only screen and (min-width: 150px) and (max-width: 600px)
 {
   .body {
