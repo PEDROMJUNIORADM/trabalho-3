@@ -1,23 +1,10 @@
 Trabalho de TWEB
 ================
 
-### Este e o trabalho!! ###
+## Este e o trabalho!! ##
 
-#### Ficheiros que sao percisos: #####
-- home.html
-- noticias.html
-- turismo.html
-- servicos.html
-- contactos.html
-- pasta img
-- pasta styles
+#### Preciso arranjar: ####
 
-#### Falta acabar: ####
-- Links Uteis
-- aumentar a galeria
-- meter o video (nao sei onde o por)
-
-> OS estilos estao todos juntos em home.css tirando a galeria
-
-> indeciso se juntar tudo ou separar tudo
-
+- asides dos links e servicos
+- aumentar galeria
+- pensar se por o video  ou nao
