@@ -1,10 +1,4 @@
-Trabalho de TWEB
-================
 
-## Este e o trabalho!! ##
+# Trabalho de TWEB #
 
-#### Preciso arranjar: ####
-
-- asides dos links e servicos
-- aumentar galeria
-- pensar se por o video  ou nao
+##### Basta carragar emm download como zip #####
