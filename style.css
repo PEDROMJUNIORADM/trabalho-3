@@ -503,4 +503,8 @@ input:focus, textarea:focus {
     float: left;
     padding: 2% 3%;
   }
+
+  img, iframe {
+    width: 100%;
+  }
 }
