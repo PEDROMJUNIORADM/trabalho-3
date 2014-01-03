@@ -137,7 +137,7 @@ h2 { /* precisa de ser experimentado */
    ===================
 */
 
-/* Fades in the slideshow. Hides the initial animation on the li tag. Ooops!! */
+/* Esconde a animacao inicial */
 
 @-webkit-keyframes fadeIn {
     0% {
@@ -167,6 +167,7 @@ h2 { /* precisa de ser experimentado */
         opacity: 1;
     }
 }
+
 
 #box {
     text-align: left;
@@ -262,7 +263,7 @@ ul#slider li p span {
     display: block;
 }
 
-/* Animation for the :target image. Slides the image in. */
+/* Animacao para a imagen :target. desliza a imagem para dentro */
 
 @-webkit-keyframes moveTarget {
     0% {
@@ -300,8 +301,8 @@ ul#slider li:target {
 }
 
 /*
-Animation for the current image. Slides it out the frame and back to the starting position.
-Adds a lower z-index than the now current image.
+Animacao para a imagem actual. Desliza-a para fora e devolta a posicao inicial
+Adiciona um z-index mais baixo do que a nova immagem actual
 */
 
 @-webkit-keyframes moveIt {
@@ -461,7 +462,7 @@ input:focus, textarea:focus {
     width: 100%;
   }
   .mainheader nav {
-    height: 160px;
+    height: 240px;
   }
 
   .mainheader nav ul {
@@ -496,7 +497,8 @@ input:focus, textarea:focus {
     margin-bottom: 4%;
   }
 
-    .sidebarLeft, .sidebarRight{
+  .sidebarLeft, .sidebarRight,
+  .formulario, .horario {
     width: 94%;
     float: left;
     padding: 2% 3%;
