@@ -240,7 +240,12 @@ ul#slider li {
     width: 100%;
     height: 438px;
     position: absolute;
-    }
+}
+
+ul#slider li video {
+  width: 100%;
+  position: relative;
+}
 
 ul#slider li p {
     position: absolute;
